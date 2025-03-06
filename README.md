@@ -139,6 +139,3 @@ mkdir /home/wilder/Data-RAID1/dossier_test
 ls -l /home/wilder/Data-RAID1
 ```
 
-## Conclusion
-
-- Votre RAID 1 est maintenant configuré et fonctionnel sur votre machine Ubuntu 22.04 LTS.
