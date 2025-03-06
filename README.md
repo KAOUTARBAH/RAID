@@ -1,4 +1,3 @@
-# RAID
 # Création d'un RAID 1
 
 ## Configuration de la machine de test
